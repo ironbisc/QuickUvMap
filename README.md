@@ -11,7 +11,7 @@ press E to generate a secondary UV (lightmap) for every object you have selected
 automatically Smart Projects UVs onto every items new map
 Selects new secondary UV on all items so you can quick edit in a group after adding
 
-New UV smart project is PER ITEM so it uses the full tile to unwrap each item indidually, when all objects are selected you can go into EDIT mode and reproject your own UVs if you want them to share the tile
+New UV smart project is PER ITEM so it uses the full tile to unwrap each item individually, when all objects are selected you can go into EDIT mode and reproject your own UVs if you want them to share the tile
 
 
 
