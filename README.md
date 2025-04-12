@@ -33,4 +33,5 @@ hotkey doccumentation is in the addon location so you can see what all you can d
 ![Image](https://github.com/user-attachments/assets/c70f5a39-2758-4ed6-8c09-c4ba5d298b79)
 
 shift E now gives you a pop up quick menu for fast selection
+
 ![Image](https://github.com/user-attachments/assets/9657bb15-a4ca-43a6-b9a0-8e09ba725d0b)
