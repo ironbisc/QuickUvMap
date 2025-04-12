@@ -1,3 +1,7 @@
+if you like the tool maybe consider donoating <3
+https://www.paypal.com/donate/?hosted_button_id=LKNQPFQVBF4P8
+
+
 PLEASE DOWNLOAD THE NEWEST RELEASE ON THE RIGHT. THANK YOU!
 
 
