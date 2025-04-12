@@ -16,3 +16,8 @@ New UV smart project is PER ITEM so it uses the full tile to unwrap each item in
 
 
 [Watch the video explaining what it does](https://youtu.be/watch?v=nDbOAA5en3Y)
+
+
+![Image](https://github.com/user-attachments/assets/92c2b9b9-d34a-46f8-a935-693695abe44f)
+![Image](https://github.com/user-attachments/assets/c70f5a39-2758-4ed6-8c09-c4ba5d298b79)
+![Image](https://github.com/user-attachments/assets/9657bb15-a4ca-43a6-b9a0-8e09ba725d0b)
