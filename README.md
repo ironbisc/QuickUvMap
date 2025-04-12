@@ -26,6 +26,7 @@ CTRL E SELECTS ALL MESH OBJECTS IN SCENE FOR QUICKER EDITING
 [Watch the video explaining what it does](https://youtu.be/watch?v=nDbOAA5en3Y)
 
 There's now a toolbar function to use options without hotkeys
+
 ![Image](https://github.com/user-attachments/assets/92c2b9b9-d34a-46f8-a935-693695abe44f)
 
 hotkey doccumentation is in the addon location so you can see what all you can do 
